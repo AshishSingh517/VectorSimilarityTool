@@ -2,7 +2,7 @@
 The Similarity Measurement project provides a Java implementation for measuring similarity between vectors using various similarity metrics. It includes implementations for the following similarity metrics:
 •	Cosine Similarity
 •	Euclidean Distance
-•	Jaccard Similarity
+•	Jaccard Distance
 •	Manhattan Distance
 
 Usage
@@ -19,8 +19,8 @@ The Cosine Similarity measures the cosine of the angle between two vectors. It d
 2. Euclidean Distance
 The Euclidean Distance calculates the distance between two vectors in Euclidean space. It measures the straight-line distance between the vectors' endpoints.
 
-3. Jaccard Similarity
-The Jaccard Similarity measures the similarity between sets. It calculates the size of the intersection divided by the size of the union of the sets.
+3. Jaccard Distance
+The Jaccard distance measures the distance between sets. It calculates the size of the intersection divided by the size of the union of the sets.
 
 4. Manhattan Distance
 The Manhattan Distance calculates the distance between two vectors by summing the absolute differences between their corresponding elements. It represents the distance required to travel from one point to another in a grid-like path.
